@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ruturaj Tarapurkar</h1>
 <h3 align="center">A passionate full stack developer developer from India</h3>
 
-<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Profile" align="center" width="400">
+<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Profile" align="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ompro1&label=Profile%20views&color=0e75b6&style=flat" alt="ompro1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ompro1" alt="ompro1" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ruturaj_alpha" target="blank"><img src="https://img.shields.io/twitter/follow/ruturaj_alpha?logo=twitter&style=for-the-badge" alt="ruturaj_alpha" /></a> </p>
+<img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Profile" align="right" width="400">
 
 - 🔭 I’m currently working on [AirBNB clone](https://github.com/OMPRO1/Mini_Airbnb)
 
