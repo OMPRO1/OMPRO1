@@ -1,6 +1,6 @@
 ![logo](https://github.com/OMPRO1/Ruturaj-Tarapurkar/blob/main/graphic-banner.png)
 <h1 align="center">Hi 👋, I'm Ruturaj Tarapurkar</h1>
-<h3 align="center">A passionate full stack developer developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ompro1&label=Profile%20views&color=0e75b6&style=flat" alt="ompro1" /> </p>
 
@@ -22,9 +22,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ruturaj_alpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ruturaj_alpha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ruturaj tarapurkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruturaj tarapurkar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ruturaj-tarapurkar-917884225/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruturaj tarapurkar" height="30" width="40" /></a>
 <a href="https://fb.com/ruturaj tarapurkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ruturaj tarapurkar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sarcastic engineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sarcastic engineer" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sarcasticengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sarcastic engineer" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ruturaj1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ruturaj1" height="30" width="40" /></a>
 </p>
 
