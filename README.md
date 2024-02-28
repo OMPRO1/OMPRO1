@@ -1,4 +1,4 @@
-![logo](https://github.com/OMPRO1/Ruturaj-Tarapurkar/blob/main/graphic-banner.png)
+![logo](https://github.com/OMPRO1/Ruturaj-Tarapurkar/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Ruturaj Tarapurkar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
