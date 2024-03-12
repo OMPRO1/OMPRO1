@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://twitter.com/ruturaj_alpha" target="blank"><img src="https://img.shields.io/twitter/follow/ruturaj_alpha?logo=twitter&style=for-the-badge" alt="ruturaj_alpha" /></a> </p>
 <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Profile" align="right" width="400">
 
-- 🔭 I’m currently working on [AirBNB clone](https://github.com/OMPRO1/Mini_Airbnb)
+- 🔭 I’m currently working on [StudyNotion](https://github.com/OMPRO1/EdTech-Platform)
 
 - 🌱 I’m currently learning **Redux, React, NextJS**
 
